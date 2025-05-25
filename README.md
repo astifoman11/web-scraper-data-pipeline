@@ -10,6 +10,7 @@ This project automates the discovery, enrichment, and loading of health clinic d
 - Enrich clinics with phone numbers and websites using the Google Place Details API
 - Scrape clinic websites for email addresses
 - Upload results to an Excel sheet
+- Lastly upload Excel data into a PostgreSQL database
 
 ---
 
